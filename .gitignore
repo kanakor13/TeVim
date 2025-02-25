@@ -8,3 +8,4 @@ dist/
 .DS_Store
 *.tmp
 .pytest_cache/
+.cache/
