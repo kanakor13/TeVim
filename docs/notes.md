@@ -85,3 +85,4 @@ Notes and usage details for TeVim.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
